@@ -8,7 +8,7 @@ def main(args):
 
 
 def convert(filename):
-    model.separate('./audio-data/'+filename)
+    model.separate('./audio-data/' + filename)
 
 
 if __name__ == "__main__":
