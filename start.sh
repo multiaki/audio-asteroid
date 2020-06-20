@@ -1,0 +1,10 @@
+python main.py audio-8bit.wav
+python main.py audio-8bit-mono.wav
+python main.py audio-8bit-stereo.wav
+python main.py audio-8hz.wav
+python main.py audio-8hz-mono.wav
+python main.py audio-16bit.wav
+python main.py audio-16bit-mono.wav
+python main.py audio-16bit-stereo.wav
+python main.py audio-22hz-mono.wav
+python main.py audio-44hz-mono-16bit.wav
