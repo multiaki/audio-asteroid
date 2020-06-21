@@ -8,3 +8,5 @@ python main.py audio-16bit-mono.wav
 python main.py audio-16bit-stereo.wav
 python main.py audio-22hz-mono.wav
 python main.py audio-44hz-mono-16bit.wav
+python main.py 32-bit-pcm-big.wav
+python main.py 32-bit-pcm-big1.wav
